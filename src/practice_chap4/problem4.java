@@ -1,4 +1,4 @@
-package chap4;
+package practice_chap4;
 
 public class problem4 {
 
